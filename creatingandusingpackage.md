@@ -1,6 +1,4 @@
-Apologies for the misunderstanding earlier! Here is the complete `.md` (Markdown) content for the entire process:
 
-```markdown
 # Java Program to Illustrate Creating and Importing Packages
 
 In this program, we will break the task into two parts:
